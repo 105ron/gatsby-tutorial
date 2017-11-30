@@ -8,13 +8,9 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^1.9.110",
-    "gatsby-link": "^1.6.27",
-    "gatsby-plugin-glamor": "^1.6.9",
-    "gatsby-plugin-styled-components": "^2.0.3",
+    "gatsby": "^1.9.119",
+    "gatsby-link": "^1.6.28",
     "gatsby-plugin-typography": "^1.7.10",
-    "styled-components": "^2.2.3",
-    "typography-theme-bootstrap": "^0.16.7",
-    "typography-theme-lawton": "^0.15.10"
+    "typography-theme-fairy-gates": "^0.15.11"
   }
 }
